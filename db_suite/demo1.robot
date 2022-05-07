@@ -12,7 +12,7 @@ Tc1
 
 Tc2
   Table Must Exist    Products
-  Row Count Is Equal To X    select * from Products where name='john'    81
+  Row Count Is Equal To X    select * from Products    81
 
 
 
